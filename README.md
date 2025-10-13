@@ -1,4 +1,4 @@
-# Dashboard de RH & Satisfação do Colaborador
+# Dashboard de RH e Satisfação do Colaborador
 
 ## Visão Geral
 
