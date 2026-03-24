@@ -1,12 +1,13 @@
 # Dashboard de RH e Satisfação do Colaborador
 
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+[![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/pt-br/microsoft-365/excel)
+
 ## Visão Geral
 
 Este projeto é um Dashboard de People Analytics desenvolvido no Power BI, focado em monitorar o quadro de colaboradores e, crucialmente, **analisar a evolução da satisfação interna** da empresa entre os anos de 2019 e 2020. O objetivo é transformar dados de pesquisas em estratégias de Retenção e Engajamento.
 
 ---
-
-## Destaques para Recrutadores
 
 ### O que foi avaliado e modelado?
 
