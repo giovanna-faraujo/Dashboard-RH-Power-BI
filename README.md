@@ -34,7 +34,7 @@ A análise comparativa revelou uma **drástica queda na satisfação** entre 201
 
 ---
 
-## Detalhes Técnicos
+### Detalhes Técnicos
 
 * **Ferramenta:** Power BI (`Dashboard de RH.pbix`)
 * **Bases de Dados:** CSV/Excel (Dados de Integrantes, Pesquisas de RH 2019 e 2020)
