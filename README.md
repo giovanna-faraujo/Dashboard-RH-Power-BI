@@ -11,26 +11,26 @@ Este projeto é um Dashboard de People Analytics desenvolvido no Power BI, focad
 
 ### O que foi avaliado e modelado?
 
-A análise integrou dados demográficos (Unidade, Cargo, Fonte de Recrutamento [cite: 34][cite_start]) com dados de duas pesquisas de opinião, comparando o sentimento dos colaboradores ao longo do tempo (Entrevista 1 em 2019 e Entrevista 2 em 2020)[cite: 74, 114].
+A análise integrou dados demográficos (Unidade, Cargo, Fonte de Recrutamento com dados de duas pesquisas de opinião, comparando o sentimento dos colaboradores ao longo do tempo (Entrevista 1 em 2019 e Entrevista 2 em 2020).
 
 ### Problema de Negócio Identificado
 
 O dashboard expõe um problema crítico de **engajamento e risco de Turnover**.
 
-A análise comparativa revelou uma **drástica queda na satisfação** entre 2019 (respostas predominantemente "Neutro" [cite: 74][cite_start]) e 2020 (respostas majoritariamente **"Insatisfeito"** [cite: 114]). Os principais focos de insatisfação, que exigem intervenção de RH, são:
+A análise comparativa revelou uma **drástica queda na satisfação** entre 2019 (respostas predominantemente "Neutro" e 2020 (respostas majoritariamente **"Insatisfeito"**. Os principais focos de insatisfação, que exigem intervenção de RH, são:
 
 **Carga Horária** 
 **Salário**
-* [cite_start]**Saúde/Benefícios** [cite: 114]
+**Saúde/Benefícios**
 
 ### Métricas (KPIs) Importantes
 
 | Métrica | Relevância |
 | :--- | :--- |
 | **Evolução da Taxa de Insatisfação** | Principal indicador de risco de *Turnover* e eficácia das políticas de RH. |
-| **Distribuição de Insatisfação por Assunto** | [cite_start]Direciona o investimento em melhorias (ex: foco em **Salário** ou **Carga Horária** [cite: 114]). |
-| **Quadro de Colaboradores por Unidade e Cargo** | [cite_start]Base para análise de headcount e dimensionamento de equipe[cite: 34]. |
-| **Fontes de Recrutamento (Análise de Eficiência)** | [cite_start]Avalia a performance dos canais de aquisição de talentos[cite: 34]. |
+| **Distribuição de Insatisfação por Assunto** | Direciona o investimento em melhorias (ex: foco em **Salário** ou **Carga Horária**. |
+| **Quadro de Colaboradores por Unidade e Cargo** | Base para análise de headcount e dimensionamento de equipe. |
+| **Fontes de Recrutamento (Análise de Eficiência)** | Avalia a performance dos canais de aquisição de talentos. |
 
 ---
 
