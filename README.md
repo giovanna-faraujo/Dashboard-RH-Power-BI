@@ -20,6 +20,8 @@ https://app.powerbi.com/view?r=eyJrIjoiMTQwMzU0YzktOWVmMy00ZDVmLWI1ZWYtNzhiNDhhZ
 
 A análise integrou dados demográficos (Unidade, Cargo, Fonte de Recrutamento com dados de duas pesquisas de opinião, comparando o sentimento dos colaboradores ao longo do tempo (Entrevista 1 em 2019 e Entrevista 2 em 2020).
 
+---
+
 ### Problema de Negócio Identificado
 
 O dashboard expõe um problema crítico de **engajamento e risco de Turnover**.
