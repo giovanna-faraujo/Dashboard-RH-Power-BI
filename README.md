@@ -10,6 +10,11 @@ Este projeto é um Dashboard de People Analytics desenvolvido no Power BI, focad
 <img width="1421" height="791" alt="Dashboard RH" src="https://github.com/user-attachments/assets/6291cfae-b27e-4c3b-94b7-36081b0749bc" />
 
 ---
+## Link de acesso:
+
+https://app.powerbi.com/view?r=eyJrIjoiMTQwMzU0YzktOWVmMy00ZDVmLWI1ZWYtNzhiNDhhZjhiMmJmIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9
+
+---
 
 ### O que foi avaliado e modelado?
 
