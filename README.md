@@ -7,6 +7,8 @@
 
 Este projeto é um Dashboard de People Analytics desenvolvido no Power BI, focado em monitorar o quadro de colaboradores e, crucialmente, **analisar a evolução da satisfação interna** da empresa entre os anos de 2019 e 2020. O objetivo é transformar dados de pesquisas em estratégias de Retenção e Engajamento.
 
+<img width="1421" height="791" alt="Dashboard RH" src="https://github.com/user-attachments/assets/6291cfae-b27e-4c3b-94b7-36081b0749bc" />
+
 ---
 
 ### O que foi avaliado e modelado?
